@@ -1,8 +1,8 @@
-Today I Learn
+Computer Science I learned
 ===
 
-오늘 공부한 내용들을 정리합니다.
+CS 지식 관련 학습한 내용들을 정리합니다.
 
-공부하고 있는 책
+학습하고 있는 책
 ---
 [모두의 네트워크](./Network/모두의_네트워크.md)
